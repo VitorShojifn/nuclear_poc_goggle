@@ -1,0 +1,20 @@
+! name: Nuclear regulatory research
+! description: Search for regulatory information
+! public: false
+! author: Me
+
+! South Korea
+$boost=7,site=nssc.go.kr/en/cms/FR_CON/index.do?MENU_ID=440
+$boost=7,site=|nssc.go.kr
+$boost=7,site=kins.re.kr/en/Infra
+$boost=7,site=|kins.re.kr
+
+! French
+$boost=7,site=|french-nuclear-safety.fr/
+
+! Canada
+$boost=7,site=|cnsc-ccsn.gc.ca/eng/
+
+! USA
+$boost=7,site=nrc.gov/reactors/ql-reactors.html
+$boost=7,site=|nrc.gov/
