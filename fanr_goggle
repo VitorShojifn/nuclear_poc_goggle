@@ -4,17 +4,17 @@
 ! author: Me
 
 ! South Korea
-$boost=7,site=https://www.nssc.go.kr/en/cms/FR_CON/index.do?MENU_ID=440
-$boost=7,site=|https://www.nssc.go.kr
-$boost=7,site=https://www.kins.re.kr/en/Infra
-$boost=7,site=!https://www.kins.re.kr
+$boost=7,site=nssc.go.kr/en/cms/FR_CON/index.do?MENU_ID=440
+$boost=7,site=|nssc.go.kr
+$boost=7,site=kins.re.kr/en/Infra
+$boost=7,site=!kins.re.kr
 
 ! French
-$boost=7,site=!https://www.french-nuclear-safety.fr/
+$boost=7,site=!french-nuclear-safety.fr/
 
 ! Canada
-$boost=7,site=!https://www.cnsc-ccsn.gc.ca/eng/
+$boost=7,site=!cnsc-ccsn.gc.ca/eng/
 
 ! USA
-$boost=7,site=https://www.nrc.gov/reactors/ql-reactors.html
-$boost=7,site=!https://www.nrc.gov/
+$boost=7,site=nrc.gov/reactors/ql-reactors.html
+$boost=7,site=!nrc.gov/
