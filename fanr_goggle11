@@ -1,0 +1,18 @@
+! name: Nuclear regulatory research
+! description: Search for regulatory information
+! public: false
+! author: Me
+
+$discard
+! South Korea
+$boost=10,site=nssc.go.kr
+$boost=10,site=kins.re.kr
+
+! French
+$boost=10,site=french-nuclear-safety.fr
+
+! Canada
+$boost=10,site=cnsc-ccsn.gc.ca
+
+! USA
+$boost=10,site=nrc.gov
